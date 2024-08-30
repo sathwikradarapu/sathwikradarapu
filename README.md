@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sathwikradarapu
-- 👀 I’m interested in ...Problem solving using multiple programming languages like c,python,java
-- 🌱 I’m currently learning ...full stack development
-- 💞️ I’m looking to collaborate on ...Google and amazon
+- 👀 I’m interested in ...Problem solving using Python
+- 🌱 I’m currently learning ...MERN Stack
 - 📫 How to reach me ...mail:sathwikradarapu@gmail.com
 - 
 
