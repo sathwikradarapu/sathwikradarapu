@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @sathwikradarapu
-- 👀 I’m interested in ...Problem solving using Python
-- 🌱 I’m currently learning ...MERN Stack
-- 📫 How to reach me ...mail:sathwikradarapu@gmail.com
+I recently graduated from JNTUH University College of Engineering, Manthani, specializing in Computer Science and Engineering with a focus on Artificial Intelligence and Machine Learning. My education has equipped me with a strong proficiency in Python and SQLite, essential for developing AI and ML applications. I am eager to apply my skills and knowledge in practical settings, contributing to innovative solutions in the field of technology.
 
+Through my academic journey, I've developed a robust skill set in web development, specializing in HTML5, CSS3, Bootstrap 4.5, JavaScript, Node.js, and React.js. This experience has equipped me with a deep understanding of front-end and back-end technologies, enabling me to create responsive and dynamic web applications.
+
+Through extensive coursework in competitive programming and computer science fundamentals, I've honed robust problem-solving skills and gained a deep understanding of key areas such as operating systems, computer networks, object-oriented programming (OOP), and effective version control with Git and GitHub. This experience has equipped me with the ability to tackle complex challenges methodically and efficiently. I've developed a keen insight into optimizing system performance, designing scalable applications, and collaborating effectively within teams. These skills not only enhance my technical proficiency but also underscore my commitment to continuous learning and innovation in software development and engineering.
+
+My professional journey has been enriched by collaborative projects that have sharpened crucial soft skills including teamwork, effective communication, and adept time management. As a dedicated learner passionate about emerging technologies, I am eager to leverage my skills in dynamic technological environments. I am committed to contributing actively to challenging projects that push boundaries and deliver impactful solutions.
