@@ -11,7 +11,7 @@
   <li>💖️ I’m excited to collaborate on projects involving emerging technologies.</li>
   <li>🐾 I love learning about and exploring new technologies, constantly bringing innovative project ideas to life.</li>
   <li>✉️ If you have a project in mind, feel free to reach out. Let's create something amazing together!</li>
-  <li style="margin-left: 5px;">🌏 Connect with me on 
+  <li style="margin-left: 25px;">🌏 Connect with me on 
     <a href="https://www.linkedin.com/in/sathwik-radarapu-b9111a273/" target="_blank">
       <img src="https://freelogopng.com/images/all_img/1656958733linkedin-logo-png.png" alt="Image" width="100" height="30" style="margin-left: 5px;">
     </a>
