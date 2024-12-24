@@ -59,4 +59,4 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/1200px-Netlify_logo.svg.png" height="70" width="170"/>
 </div>
 <h2>🖍️ What am I currently studying or focusing on?</h2>
-<p>I am currently refining my coding skills by solving problems on LeetCode and expanding my expertise in Web Development through the completion of practical projects.</p>
+<ul><li>I am currently refining my coding skills by solving problems on LeetCode and expanding my expertise in Web Development through the completion of practical projects.</li></ul>
