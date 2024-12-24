@@ -1,7 +1,7 @@
 <h1 align="center">
   👋🙋‍♂️ Hi, I’m Sathwik Radarapu...  
 </h1>
-<h2 style="text-decoration: none;" align="center">💻⌨️ Frontend Developer | 🤖🌐 Tech Geek</h2>
+<h2 align="center">💻⌨️ Frontend Developer | 🤖🌐 Tech Geek</h2>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  width="400" height="300"/>
 </div>
@@ -11,9 +11,11 @@
   <li>💖️ I’m excited to collaborate on projects involving emerging technologies.</li>
   <li>🐾 I love learning about and exploring new technologies, constantly bringing innovative project ideas to life.</li>
   <li>✉️ If you have a project in mind, feel free to reach out. Let's create something amazing together!</li>
-  <li>🌏 Connect with me on <a href="https://www.linkedin.com/in/sathwik-radarapu-b9111a273/" target="_blank">
-    <img src="https://freelogopng.com/images/all_img/1656958733linkedin-logo-png.png" alt="Image" width="100" height="30">
-  </a></li>
+  <li style="margin-left: 5px;">🌏 Connect with me on 
+    <a href="https://www.linkedin.com/in/sathwik-radarapu-b9111a273/" target="_blank">
+      <img src="https://freelogopng.com/images/all_img/1656958733linkedin-logo-png.png" alt="Image" width="100" height="30" style="margin-left: 5px;">
+    </a>
+</li>
 </ul>
 <h3>🌟 Skills</h3>
 <h4>Programming Language:</h4>
