@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I’m Sathwik Radarapu...  
+  👋🙋‍♂️ Hi, I’m Sathwik Radarapu...  
 </h1>
 <h3 align="center">💻⌨️ Frontend Developer | 🤖🌐 Tech Geek</h3>
 
