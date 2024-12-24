@@ -21,16 +21,22 @@
   </li>
 </ul>
 <h2>🌟 Skills</h2>
-<h3>Programming Language:</h3>
+<ul>
+  <li><b>Programming Language:</b></li>
+</ul>
 <img src="https://w7.pngwing.com/pngs/319/643/png-transparent-programming-in-python-3-a-complete-introduction-to-the-python-language-python-machine-learning-programming-language-logo-framework-text-logo-computer-programming.png" height="70" width="170"/>
-<h3>CS/IT Fundamentals:</h3>
+<ul>
+  <li><b>CS/IT Fundamentals:</b></li>
+</ul>
 <div>
   <img src="https://png.pngtree.com/png-clipart/20230924/original/pngtree-database-administrator-dbms-software-data-center-admin-secure-system-vector-png-image_12671093.png" height="70" width="170"/>
   <img src="https://miro.medium.com/v2/resize:fit:528/1*lpkjNDgkcZG8dF4GcBd5WQ.png" height="70" width="170"/>
   <img src="https://t3.ftcdn.net/jpg/04/39/30/20/360_F_439302086_VnIX4490i451n9vkb5D7cnTA9yHmVeOq.jpg" height="70" width="170"/>
   <img src="https://w7.pngwing.com/pngs/666/309/png-transparent-computer-network-computer-icons-wireless-network-internet-computer-white-photography-computer.png" height="70" width="170"/>
 </div>
-<h3>Web Development:</h3>
+<ul>
+  <li><b>Web Development:</b></li>
+</ul>
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height="70" width="70"/>
   <img src="https://brandslogos.com/wp-content/uploads/images/large/css3-logo.png" height="70" width="70"/>
@@ -39,9 +45,13 @@
   <img src="https://i.sstatic.net/kyKz5.png" height="70" width="170"/>
   <img src="https://e7.pngegg.com/pngimages/724/234/png-clipart-redux-react-javascript-vue-js-single-page-application-others-miscellaneous-purple-thumbnail.png" height="70" width="70"/>
 </div>
-<h3>Database:</h3>
+<ul>
+  <li><b>Database:</b></li>
+</ul>
 <img src="https://i.pinimg.com/736x/6e/4a/9a/6e4a9a1b7604e4f9b6a9f74f932834ad.jpg" height="70" width="170"/>
-<h3>Tools:</h3>
+<ul>
+  <li><b>Tools:</b></li>
+</ul>
 <div>
   <img src="https://w7.pngwing.com/pngs/936/844/png-transparent-git-hd-logo.png" height="70" width="170"/>
   <img src="https://w7.pngwing.com/pngs/203/560/png-transparent-github-logo-thumbnail.png" height="70" width="170"/>
