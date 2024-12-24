@@ -6,11 +6,11 @@
   <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  width="400" height="300"/>
 </div>
 <ul>
-  <li>🎓 I am a recent graduate of JNTUH University College of Engineering, Manthani.</li>
-  <li>🍃 I have a strong passion for Web Design and Web Development.</li>
+  <li>🎓 I am a recent graduate of <b>JNTUH University College of Engineering, Manthani.</b></li>
+  <li>🍃 I have a strong passion for <b>Web Design and Web Development.</b></li>
   <li>💖️ I’m excited to collaborate on projects involving emerging technologies.</li>
   <li>🐾 I love learning about and exploring new technologies, constantly bringing innovative project ideas to life.</li>
-  <li>✉️ If you have a project in mind, feel free to reach out at sathwikradarapu@gmail.com.Let's create something amazing together!.</li>
+  <li>✉️ If you have a project in mind, feel free to reach out at <b>sathwikradarapu@gmail.com.</b></li>
   <li style="margin-left: 25px;">🌏 My Networking Platforms 
     <a href="https://leetcode.com/u/Sathwik_Radarapu2933/" target="_blank">
       <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" alt="Image" width="100" height="30" style="margin-left: 5px;">
@@ -24,26 +24,17 @@
 <ul>
   <li><b>Programming Language:</b></li>
 </ul>
-<img src="https://w7.pngwing.com/pngs/319/643/png-transparent-programming-in-python-3-a-complete-introduction-to-the-python-language-python-machine-learning-programming-language-logo-framework-text-logo-computer-programming.png" height="70" width="170"/>
-<ul>
-  <li><b>CS/IT Fundamentals:</b></li>
-</ul>
-<div>
-  <img src="https://png.pngtree.com/png-clipart/20230924/original/pngtree-database-administrator-dbms-software-data-center-admin-secure-system-vector-png-image_12671093.png" height="70" width="170"/>
-  <img src="https://miro.medium.com/v2/resize:fit:528/1*lpkjNDgkcZG8dF4GcBd5WQ.png" height="70" width="170"/>
-  <img src="https://t3.ftcdn.net/jpg/04/39/30/20/360_F_439302086_VnIX4490i451n9vkb5D7cnTA9yHmVeOq.jpg" height="70" width="170"/>
-  <img src="https://w7.pngwing.com/pngs/666/309/png-transparent-computer-network-computer-icons-wireless-network-internet-computer-white-photography-computer.png" height="70" width="170"/>
-</div>
+<img src="https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.jpg" height="70" width="170"/>
 <ul>
   <li><b>Web Development:</b></li>
 </ul>
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height="70" width="70"/>
   <img src="https://brandslogos.com/wp-content/uploads/images/large/css3-logo.png" height="70" width="70"/>
-  <img src="https://e7.pngegg.com/pngimages/391/430/png-clipart-bootstrap-full-logo-tech-companies.png" height="70" width="170"/>
+  <img src="https://www.brcline.com/wp-content/uploads/2016/01/bootstrap-logo.png" height="70" width="170"/>
   <img src="https://quintagroup.com/cms/js/js-image/javascript-logo.png/@@images/8c64c4b9-4e1c-4c26-9b5e-78d85e3130a9.png" height="70" width="70"/>
-  <img src="https://i.sstatic.net/kyKz5.png" height="70" width="170"/>
-  <img src="https://e7.pngegg.com/pngimages/724/234/png-clipart-redux-react-javascript-vue-js-single-page-application-others-miscellaneous-purple-thumbnail.png" height="70" width="70"/>
+  <img src="https://ms314006.github.io/static/b7a8f321b0bbc07ca9b9d22a7a505ed5/97b31/React.jpg" height="70" width="170"/>
+  <img src="https://typeofnan.dev/static/7d24a5049765ab5e2d535e571def080e/c1b63/redux.png" height="70" width="70"/>
 </div>
 <ul>
   <li><b>Database:</b></li>
@@ -53,7 +44,7 @@
   <li><b>Tools:</b></li>
 </ul>
 <div>
-  <img src="https://e7.pngegg.com/pngimages/326/636/png-clipart-visual-studio-code-full-logo-tech-companies.png" height="70" width="170"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThOU4hIRB20Oy0barVYD6x4N8hQa5QOW7Www&s" height="70" width="170"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/1200px-Netlify_logo.svg.png" height="70" width="170"/>
 </div>
 <h2>🖍️ What am I currently studying or focusing on?</h2>
