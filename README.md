@@ -15,7 +15,7 @@
   <img src="https://freelogopng.com/images/all_img/1656958733linkedin-logo-png.png" alt="Image" width="100" height="30"></a>
 
 <h2>🌟 Skills</h2>
-<h3>Programming Language:</h3>
+- <h3>Programming Language:</h3>
 <img src="https://images.javatpoint.com/fullformpages/images/dbms-full-form2.png" height="50" width="50"/>
 
 ### CS/IT Fundamentals:
