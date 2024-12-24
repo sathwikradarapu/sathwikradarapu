@@ -10,10 +10,10 @@
   <li>🍃 I have a strong passion for Web Design and Web Development.</li>
   <li>💖️ I’m excited to collaborate on projects involving emerging technologies.</li>
   <li>🐾 I love learning about and exploring new technologies, constantly bringing innovative project ideas to life.</li>
-  <li>✉️ If you have a project in mind, feel free to reach out. Let's create something amazing together!</li>
-  <li style="margin-left: 25px;">🌏 How to Reach Me? 
-    <a href="mailto:sathwikradarapu@gmail.com" target="_blank">
-      <img src="https://static.dezeen.com/uploads/2020/10/gmail-google-logo-rebrand-workspace-design_dezeen_2364_col_0-1024x576.jpg" alt="Image" width="100" height="40" style="margin-left: 5px;">
+  <li>✉️ If you have a project in mind, feel free to reach out at sathwikradarapu@gmail.com.Let's create something amazing together!.</li>
+  <li style="margin-left: 25px;">🌏 My Networking Platforms 
+    <a href="https://leetcode.com/u/Sathwik_Radarapu2933/" target="_blank">
+      <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" alt="Image" width="100" height="30" style="margin-left: 5px;">
     </a>
     <a href="https://www.linkedin.com/in/sathwik-radarapu-b9111a273/" target="_blank">
       <img src="https://freelogopng.com/images/all_img/1656958733linkedin-logo-png.png" alt="Image" width="100" height="30" style="margin-left: 5px;">
@@ -53,8 +53,6 @@
   <li><b>Tools:</b></li>
 </ul>
 <div>
-  <img src="https://w7.pngwing.com/pngs/936/844/png-transparent-git-hd-logo.png" height="70" width="170"/>
-  <img src="https://w7.pngwing.com/pngs/203/560/png-transparent-github-logo-thumbnail.png" height="70" width="170"/>
   <img src="https://e7.pngegg.com/pngimages/326/636/png-clipart-visual-studio-code-full-logo-tech-companies.png" height="70" width="170"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/1200px-Netlify_logo.svg.png" height="70" width="170"/>
 </div>
