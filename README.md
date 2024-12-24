@@ -14,9 +14,9 @@
 - 🌏 Connect with me on <a href="https://www.linkedin.com/in/sathwik-radarapu-b9111a273/" target="_blank">
   <img src="https://freelogopng.com/images/all_img/1656958733linkedin-logo-png.png" alt="Image" width="100" height="30"></a>
   
-## 🌟 Skills
+### 🌟 Skills
 ### Programming Language:
-![Python](https://img.shields.io/badge/Python-e34c26?style=flat-square&logo=python&logoColor=white)
+<img src="https://image.similarpng.com/very-thumbnail/2021/12/Python-programming-logo-on-transparent-background-PNG.png" height="30" width="30"/>
 
 ### CS/IT Fundamentals:
 - ![DBMS](https://img.shields.io/badge/DBMS-0077cc?style=flat-square&logo=mysql&logoColor=white)
