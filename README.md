@@ -13,13 +13,10 @@
 - ✉️ If you have a project in mind, feel free to reach out.Let's create something amazing together!
 - 🌏 Connect with me on <a href="https://www.linkedin.com/in/sathwik-radarapu-b9111a273/" target="_blank">
   <img src="https://freelogopng.com/images/all_img/1656958733linkedin-logo-png.png" alt="Image" width="100" height="30"></a>
-  
-### 🌟 Skills
-### Programming Language:
-<div>
-  <img src="https://images.javatpoint.com/fullformpages/images/dbms-full-form2.png" height="50" width="50"/>
-  <span style="background-color: #e34c26; color: white; padding: 5px 10px; border-radius: 3px; font-size: 14px;">Python</span>
-</div>
+
+<h2>🌟 Skills</h2>
+<h3>Programming Language:</h3>
+<img src="https://images.javatpoint.com/fullformpages/images/dbms-full-form2.png" height="50" width="50"/>
 
 ### CS/IT Fundamentals:
 <img src="https://images.javatpoint.com/fullformpages/images/dbms-full-form2.png" height="50" width="50"/>
