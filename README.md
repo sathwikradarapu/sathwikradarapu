@@ -1,6 +1,6 @@
-# Hi, I’m Sathwik Radarapu...
-💻⌨️ Frontend Developer | 🤖🌐 Tech Geek 
-
+<center># Hi, I’m Sathwik Radarapu...
+💻⌨️ Frontend Developer | 🤖🌐 Tech Geek
+</center>
 - 🎓 I am a recent graduate of JNTUH University College of Engineering, Manthani.
 - 🍃 I have a strong passion for Web Design and Web Development.
 - 💖️ I’m excited to collaborate on projects involving emerging technologies.
