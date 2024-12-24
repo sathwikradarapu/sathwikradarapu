@@ -5,17 +5,16 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  width="400" height="300"/>
 </div>
-
-
-- 🎓 I am a recent graduate of JNTUH University College of Engineering, Manthani.
-- 🍃 I have a strong passion for Web Design and Web Development.
-- 💖️ I’m excited to collaborate on projects involving emerging technologies.
-- 🐾 I love learning about and exploring new technologies, constantly bringing innovative project ideas to life.
-- ✉️ If you have a project in mind, feel free to reach out.Let's create something amazing together!
-- 🌏 Connect with me on <a href="https://www.linkedin.com/in/sathwik-radarapu-b9111a273/" target="_blank">
-  <img src="https://freelogopng.com/images/all_img/1656958733linkedin-logo-png.png" alt="Image" width="100" height="30"></a>
-
-
+<ul>
+  <li>🎓 I am a recent graduate of JNTUH University College of Engineering, Manthani.</li>
+  <li>🍃 I have a strong passion for Web Design and Web Development.</li>
+  <li>💖️ I’m excited to collaborate on projects involving emerging technologies.</li>
+  <li>🐾 I love learning about and exploring new technologies, constantly bringing innovative project ideas to life.</li>
+  <li>✉️ If you have a project in mind, feel free to reach out. Let's create something amazing together!</li>
+  <li>🌏 Connect with me on <a href="https://www.linkedin.com/in/sathwik-radarapu-b9111a273/" target="_blank">
+    <img src="https://freelogopng.com/images/all_img/1656958733linkedin-logo-png.png" alt="Image" width="100" height="30">
+  </a></li>
+</ul>
 <h3>🌟 Skills</h3>
 <h4>Programming Language:</h4>
 <img src="https://w7.pngwing.com/pngs/319/643/png-transparent-programming-in-python-3-a-complete-introduction-to-the-python-language-python-machine-learning-programming-language-logo-framework-text-logo-computer-programming.png" height="50" width="100"/>
