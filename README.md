@@ -18,19 +18,19 @@
     <a href="https://leetcode.com/u/Sathwik_Radarapu2933/" target="_blank">
       <img src="https://technarrator.com/wp-content/uploads/2023/05/LeetCode_Logo_black_with_text.svg.png" alt="Image" width="100" height="30" style="margin-left: 5px;">
     </a>
-</li>
+  </li>
 </ul>
 <h3>🌟 Skills</h3>
-<ul><li></li><h4>Programming Language:</h4></ul>
+<h4>Programming Language:</h4>
 <img src="https://w7.pngwing.com/pngs/319/643/png-transparent-programming-in-python-3-a-complete-introduction-to-the-python-language-python-machine-learning-programming-language-logo-framework-text-logo-computer-programming.png" height="50" width="100"/>
-<ul><li></li><h4>CS/IT Fundementals:</h4></ul>
+<h4>CS/IT Fundamentals:</h4>
 <div>
   <img src="https://png.pngtree.com/png-clipart/20230924/original/pngtree-database-administrator-dbms-software-data-center-admin-secure-system-vector-png-image_12671093.png" height="50" width="100"/>
   <img src="https://miro.medium.com/v2/resize:fit:528/1*lpkjNDgkcZG8dF4GcBd5WQ.png" height="50" width="100"/>
   <img src="https://t3.ftcdn.net/jpg/04/39/30/20/360_F_439302086_VnIX4490i451n9vkb5D7cnTA9yHmVeOq.jpg" height="50" width="100"/>
   <img src="https://w7.pngwing.com/pngs/666/309/png-transparent-computer-network-computer-icons-wireless-network-internet-computer-white-photography-computer.png" height="50" width="100"/>
 </div>
-<ul><li></li><h4>Web Development:</h4></ul>
+<h4>Web Development:</h4>
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height="50" width="50"/>
   <img src="https://brandslogos.com/wp-content/uploads/images/large/css3-logo.png" height="50" width="50"/>
@@ -39,9 +39,9 @@
   <img src="https://i.sstatic.net/kyKz5.png" height="50" width="100"/>
   <img src="https://e7.pngegg.com/pngimages/724/234/png-clipart-redux-react-javascript-vue-js-single-page-application-others-miscellaneous-purple-thumbnail.png" height="50" width="50"/>
 </div>
-<ul><li></li><h4>Database:</h4></ul>
+<h4>Database:</h4>
 <img src="https://i.pinimg.com/736x/6e/4a/9a/6e4a9a1b7604e4f9b6a9f74f932834ad.jpg" height="50" width="100"/>
-<ul><li></li><h4>Tools:</h4></ul>
+<h4>Tools:</h4>
 <div>
   <img src="https://w7.pngwing.com/pngs/936/844/png-transparent-git-hd-logo.png" height="50" width="100"/>
   <img src="https://w7.pngwing.com/pngs/203/560/png-transparent-github-logo-thumbnail.png" height="50" width="100"/>
@@ -49,5 +49,4 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/1200px-Netlify_logo.svg.png" height="50" width="100"/>
 </div>
 <h3>🖍️ What am I currently studying or focusing on?</h3>
-<ul><li></li><p>I am currently refining my coding skills by solving problems on LeetCode and expanding my expertise in Web Development through the completion of practical projects.</p>
-</ul>
+<p>I am currently refining my coding skills by solving problems on LeetCode and expanding my expertise in Web Development through the completion of practical projects.</p>
