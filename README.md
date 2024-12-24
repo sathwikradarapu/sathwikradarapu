@@ -34,7 +34,7 @@
   <img src="https://www.brcline.com/wp-content/uploads/2016/01/bootstrap-logo.png" height="70" width="170"/>
   <img src="https://quintagroup.com/cms/js/js-image/javascript-logo.png/@@images/8c64c4b9-4e1c-4c26-9b5e-78d85e3130a9.png" height="70" width="70"/>
   <img src="https://ms314006.github.io/static/b7a8f321b0bbc07ca9b9d22a7a505ed5/97b31/React.jpg" height="70" width="170"/>
-  <img src="https://typeofnan.dev/static/7d24a5049765ab5e2d535e571def080e/c1b63/redux.png" height="70" width="70"/>
+  <img src="https://typeofnan.dev/static/7d24a5049765ab5e2d535e571def080e/c1b63/redux.png" height="70" width="170"/>
 </div>
 <ul>
   <li><b>Database:</b></li>
@@ -48,4 +48,4 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/1200px-Netlify_logo.svg.png" height="70" width="170"/>
 </div>
 <h2>🖍️ What am I currently studying or focusing on?</h2>
-<ul><li>I am currently refining my coding skills by solving problems on LeetCode and expanding my expertise in Web Development through the completion of practical projects.</li></ul>
+<ul><li>I am currently refining my coding skills by <b>solving problems on LeetCode</b> and expanding my expertise in <b>Web Development through the completion of practical projects.</b></li></ul>
