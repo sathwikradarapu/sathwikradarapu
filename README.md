@@ -1,8 +1,7 @@
 <h1 align="center">
   Hi, I’m Sathwik Radarapu...  
-  💻⌨️ Frontend Developer | 🤖🌐 Tech Geek
 </h1>
-
+<h3 align="center">💻⌨️ Frontend Developer | 🤖🌐 Tech Geek</h3>
 
 - 🎓 I am a recent graduate of JNTUH University College of Engineering, Manthani.
 - 🍃 I have a strong passion for Web Design and Web Development.
