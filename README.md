@@ -11,12 +11,12 @@
   <li>💖️ I’m excited to collaborate on projects involving emerging technologies.</li>
   <li>🐾 I love learning about and exploring new technologies, constantly bringing innovative project ideas to life.</li>
   <li>✉️ If you have a project in mind, feel free to reach out. Let's create something amazing together!</li>
-  <li style="margin-left: 25px;">🌏 Connect with me on 
+  <li style="margin-left: 25px;">🌏 How to Reach Me? 
+    <a href="mailto:sathwikradarapu@gmail.com" target="_blank">
+      <img src="https://static.dezeen.com/uploads/2020/10/gmail-google-logo-rebrand-workspace-design_dezeen_2364_col_0-1024x576.jpg" alt="Image" width="100" height="30" style="margin-left: 5px;">
+    </a>
     <a href="https://www.linkedin.com/in/sathwik-radarapu-b9111a273/" target="_blank">
       <img src="https://freelogopng.com/images/all_img/1656958733linkedin-logo-png.png" alt="Image" width="100" height="30" style="margin-left: 5px;">
-    </a>
-    <a href="https://leetcode.com/u/Sathwik_Radarapu2933/" target="_blank">
-      <img src="https://technarrator.com/wp-content/uploads/2023/05/LeetCode_Logo_black_with_text.svg.png" alt="Image" width="100" height="30" style="margin-left: 5px;">
     </a>
   </li>
 </ul>
