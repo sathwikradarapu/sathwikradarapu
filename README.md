@@ -3,20 +3,20 @@
 </h1>
 <h3 align="center">💻⌨️ Frontend Developer | 🤖🌐 Tech Geek</h3>
 <div align="center">
-  <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  width="400" height="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  width="400" height="300"/>
 </div>
 
 - 🎓 I am a recent graduate of JNTUH University College of Engineering, Manthani.
 - 🍃 I have a strong passion for Web Design and Web Development.
 - 💖️ I’m excited to collaborate on projects involving emerging technologies.
 - 🐾 I love learning about and exploring new technologies, constantly bringing innovative project ideas to life.
-- ✉️ If you have a project in mind, feel free to reach out—let's create something amazing together!
+- ✉️ If you have a project in mind, feel free to reach out.Let's create something amazing together!
 - 🌏 Connect with me on <a href="https://www.linkedin.com/in/sathwik-radarapu-b9111a273/" target="_blank">
   <img src="https://freelogopng.com/images/all_img/1656958733linkedin-logo-png.png" alt="Image" width="100" height="30"></a>
   
 ## 🌟 Skills
 ### Programming Language:
-- ![Python](https://img.shields.io/badge/Python-e34c26?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-e34c26?style=flat-square&logo=python&logoColor=white)
 
 ### CS/IT Fundamentals:
 - ![DBMS](https://img.shields.io/badge/DBMS-0077cc?style=flat-square&logo=mysql&logoColor=white)
