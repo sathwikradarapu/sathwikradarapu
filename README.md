@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi, I’m Sathwik Radarapu...
 💻⌨️ Frontend Developer | 🤖🌐 Tech Geek 
 
@@ -39,3 +41,4 @@
 ## 🖍️ What am I currently studying or focusing on?
 I am currently refining my coding skills by solving problems on LeetCode and expanding my expertise in Web Development through the completion of practical projects.
 
+</div>
