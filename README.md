@@ -31,7 +31,7 @@
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height="70" width="70"/>
   <img src="https://brandslogos.com/wp-content/uploads/images/large/css3-logo.png" height="70" width="70"/>
-  <img src="https://www.brcline.com/wp-content/uploads/2016/01/bootstrap-logo.png" height="70" width="170"/>
+  <img src="https://www.brcline.com/wp-content/uploads/2016/01/bootstrap-logo.png" height="70" width="150"/>
   <img src="https://quintagroup.com/cms/js/js-image/javascript-logo.png/@@images/8c64c4b9-4e1c-4c26-9b5e-78d85e3130a9.png" height="70" width="70"/>
   <img src="https://ms314006.github.io/static/b7a8f321b0bbc07ca9b9d22a7a505ed5/97b31/React.jpg" height="70" width="170"/>
   <img src="https://typeofnan.dev/static/7d24a5049765ab5e2d535e571def080e/c1b63/redux.png" height="70" width="170"/>
@@ -39,7 +39,7 @@
 <ul>
   <li><b>Database:</b></li>
 </ul>
-<img src="https://i.pinimg.com/736x/6e/4a/9a/6e4a9a1b7604e4f9b6a9f74f932834ad.jpg" height="70" width="170"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFPLXqRyw5PEl4ETnuzYuP5XhUI51sUdQzcg&s" height="70" width="170"/>
 <ul>
   <li><b>Tools:</b></li>
 </ul>
