@@ -15,31 +15,32 @@
   <img src="https://freelogopng.com/images/all_img/1656958733linkedin-logo-png.png" alt="Image" width="100" height="30"></a>
 
 <h2>🌟 Skills</h2>
-- <h3>Programming Language:</h3>
-<img src="https://images.javatpoint.com/fullformpages/images/dbms-full-form2.png" height="50" width="50"/>
-
-### CS/IT Fundamentals:
-<img src="https://images.javatpoint.com/fullformpages/images/dbms-full-form2.png" height="50" width="50"/>
-<img src="https://thumbs.dreamstime.com/b/oop-object-oriented-programming-acronym-oop-object-oriented-programming-acronym-technology-concept-background-202533106.jpg" height="30" width="30"/>
-<img src="https://w7.pngwing.com/pngs/271/681/png-transparent-operating-systems-mobileiron-workplace-computing-platform-service-android-text-service-logo-thumbnail.png" height="30" width="30"/>
-<img src="https://image.similarpng.com/very-thumbnail/2021/12/Python-programming-logo-on-transparent-background-PNG.png" height="30" width="30"/>
-
-### Frontend Development:
-- ![HTML](https://img.shields.io/badge/HTML-00599c?style=flat-square&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS-b07219?style=flat-square&logo=css3&logoColor=white)
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-00c4f2?style=flat-square&logo=bootstrap&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-0078f2?style=flat-square&logo=javascript&logoColor=white)
-- ![React JS](https://img.shields.io/badge/React_JS-0078f2?style=flat-square&logo=react&logoColor=white)
-- ![Redux](https://img.shields.io/badge/Redux-0078f2?style=flat-square&logo=redux&logoColor=white)
-
-### Database:
-- ![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)
-
-### Tools:
-- ![Git](https://img.shields.io/badge/Git-scikit?style=flat-square&logo=git&logoColor=white)
-- ![VS Code](https://img.shields.io/badge/VS_Code-scikit?style=flat-square&logo=visualstudiocode&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/GitHub-scikit?style=flat-square&logo=github&logoColor=white)
-- ![Netlify](https://img.shields.io/badge/Netlify-scikit?style=flat-square&logo=netlify&logoColor=white)
-
-## 🖍️ What am I currently studying or focusing on?
-I am currently refining my coding skills by solving problems on LeetCode and expanding my expertise in Web Development through the completion of practical projects.
+<h3>Programming Language:</h3>
+<img src="https://w7.pngwing.com/pngs/319/643/png-transparent-programming-in-python-3-a-complete-introduction-to-the-python-language-python-machine-learning-programming-language-logo-framework-text-logo-computer-programming.png" height="50" width="50"/>
+<h3>CS/IT Fundementals:</h3>
+<div>
+  <img src="https://png.pngtree.com/png-clipart/20230924/original/pngtree-database-administrator-dbms-software-data-center-admin-secure-system-vector-png-image_12671093.png" height="50" width="50"/>
+  <img src="https://miro.medium.com/v2/resize:fit:528/1*lpkjNDgkcZG8dF4GcBd5WQ.png" height="50" width="50"/>
+  <img src="https://t3.ftcdn.net/jpg/04/39/30/20/360_F_439302086_VnIX4490i451n9vkb5D7cnTA9yHmVeOq.jpg" height="50" width="50"/>
+  <img src="https://w7.pngwing.com/pngs/666/309/png-transparent-computer-network-computer-icons-wireless-network-internet-computer-white-photography-computer.png" height="50" width="50"/>
+</div>
+<h3>Web Development:</h3>
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height="50" width="50"/>
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/css3-logo.png" height="50" width="50"/>
+  <img src="https://e7.pngegg.com/pngimages/391/430/png-clipart-bootstrap-full-logo-tech-companies.png" height="50" width="50"/>
+  <img src="https://quintagroup.com/cms/js/js-image/javascript-logo.png/@@images/8c64c4b9-4e1c-4c26-9b5e-78d85e3130a9.png" height="50" width="50"/>
+  <img src="https://i.sstatic.net/kyKz5.png" height="50" width="50"/>
+  <img src="https://e7.pngegg.com/pngimages/724/234/png-clipart-redux-react-javascript-vue-js-single-page-application-others-miscellaneous-purple-thumbnail.png" height="50" width="50"/>
+</div>
+<h3>Database:</h3>
+<img src="https://i.pinimg.com/736x/6e/4a/9a/6e4a9a1b7604e4f9b6a9f74f932834ad.jpg" height="50" width="50"/>
+<h3>Tools:</h3>
+<div>
+  <img src="https://w7.pngwing.com/pngs/936/844/png-transparent-git-hd-logo.png" height="50" width="50"/>
+  <img src="https://w7.pngwing.com/pngs/203/560/png-transparent-github-logo-thumbnail.png" height="50" width="50"/>
+  <img src="https://e7.pngegg.com/pngimages/326/636/png-clipart-visual-studio-code-full-logo-tech-companies.png" height="50" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/1200px-Netlify_logo.svg.png" height="50" width="50"/>
+</div>
+<h2>🖍️ What am I currently studying or focusing on?</h2>
+<p>I am currently refining my coding skills by solving problems on LeetCode and expanding my expertise in Web Development through the completion of practical projects.</p>
