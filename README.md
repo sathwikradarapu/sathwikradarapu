@@ -53,8 +53,8 @@
 </ul>
 <div>
   <img src="https://png.pngtree.com/png-clipart/20230924/original/pngtree-database-administrator-dbms-software-data-center-admin-secure-system-vector-png-image_12671093.png" height="70" width="170"/>
-  <img src="https://media.istockphoto.com/id/1334768190/vector/oop-object-oriented-programming-acronym.jpg?s=612x612&w=0&k=20&c=srCoPvK8egilkl5jeNNVq1dcjpggjEArb6xPagZIdP0=" height="90" width="150"/>
-  <img src="https://t3.ftcdn.net/jpg/04/39/30/20/360_F_439302086_VnIX4490i451n9vkb5D7cnTA9yHmVeOq.jpg" height="70" width="190"/>
+  <img src="https://media.istockphoto.com/id/1334768190/vector/oop-object-oriented-programming-acronym.jpg?s=612x612&w=0&k=20&c=srCoPvK8egilkl5jeNNVq1dcjpggjEArb6xPagZIdP0=" height="100" width="150"/>
+  <img src="https://t3.ftcdn.net/jpg/04/39/30/20/360_F_439302086_VnIX4490i451n9vkb5D7cnTA9yHmVeOq.jpg" height="80" width="190"/>
   <img src="https://studyopedia.com/wp-content/uploads/2017/04/computer-networking.png" height="70" width="170"/>
 </div>
 <h2>🖍️ What am I currently studying or focusing on?</h2>
