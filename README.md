@@ -30,7 +30,7 @@
 </ul>
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" height="70" width="80"/>
-  <img src="https://brandslogos.com/wp-content/uploads/images/large/css3-logo.png" height="90" width="80"/>
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/css3-logo.png" height="80" width="80"/>
   <img src="https://www.brcline.com/wp-content/uploads/2016/01/bootstrap-logo.png" height="70" width="130"/>
   <img src="https://quintagroup.com/cms/js/js-image/javascript-logo.png/@@images/8c64c4b9-4e1c-4c26-9b5e-78d85e3130a9.png" height="70" width="80"/>
   <img src="https://ms314006.github.io/static/b7a8f321b0bbc07ca9b9d22a7a505ed5/97b31/React.jpg" height="70" width="170"/>
