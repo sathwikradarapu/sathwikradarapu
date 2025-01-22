@@ -1,7 +1,7 @@
 <h1 align="center">
   👋🙋‍♂️ Hi, I’m Sathwik Radarapu...  
 </h1>
-<h2 align="center">💻⌨️ Frontend Developer | 🤖🌐 Tech Geek</h2>
+<h2 align="center">💻⌨️ Full Stack Python Developer | 🤖🌐 Tech Geek</h2>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  width="400" height="300"/>
 </div>
@@ -35,6 +35,7 @@
   <img src="https://quintagroup.com/cms/js/js-image/javascript-logo.png/@@images/8c64c4b9-4e1c-4c26-9b5e-78d85e3130a9.png" height="70" width="80"/>
   <img src="https://ms314006.github.io/static/b7a8f321b0bbc07ca9b9d22a7a505ed5/97b31/React.jpg" height="70" width="170"/>
   <img src="https://typeofnan.dev/static/7d24a5049765ab5e2d535e571def080e/c1b63/redux.png" height="70" width="170"/>
+  <img src="https://static-00.iconduck.com/assets.00/django-original-icon-2048x874-iws4p6y8.png" height="70" width="170"/>
 </div>
 <ul>
   <li><b>Database:</b></li>
