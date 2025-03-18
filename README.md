@@ -49,7 +49,7 @@
   <img src="https://dave.dev/images/blog/git-logo.jpg" height="70" width="150"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThOU4hIRB20Oy0barVYD6x4N8hQa5QOW7Www&s" height="70" width="170"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/1200px-Netlify_logo.svg.png" height="70" width="170"/>
-  <img src="https://mms.businesswire.com/media/20241112181390/en/2301437/22/Render_logo_-_Black.jpg" height="70" width="170"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fintellyx.com%2F2019%2F08%2F14%2Frender-shooting-for-a-cloud-native-app-hosting-platform-you-never-outgrow%2F&psig=AOvVaw0tRnP5z5lx3YT3D4BbhRV4&ust=1742363229636000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjYzPz2kowDFQAAAAAdAAAAABAE" height="70" width="170"/>
 </div>
 <ul>
   <li><b>CS/IT Fundementals:</b></li>
