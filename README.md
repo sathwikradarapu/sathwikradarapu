@@ -19,7 +19,7 @@
       <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" alt="Image" width="100" height="30" style="margin-left: 5px;">
     </a>
     <a href="https://sathwikradarapu.netlify.app/" target="_blank">
-      <img src="https://cdn.freebiesupply.com/logos/large/2x/portfolio-logo-svg-vector.svg" alt="Image" width="200" height="30" style="margin-left: 5px;">
+      <img src="https://www.vhv.rs/dpng/d/512-5121842_portfolio-png-png-download-portflio-logo-transparent-png.png" alt="Image" width="100" height="30" style="margin-left: 5px;">
     </a>
   </li>
 </ul>
