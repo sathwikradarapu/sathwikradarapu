@@ -55,7 +55,7 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" height="70" width="100"/>
 </div>
 <ul>
-  <li><b>CS/IT Fundementals:</b></li>
+  <li><b>CS Fundementals:</b></li>
 </ul>
 <div>
   <img src="https://png.pngtree.com/png-clipart/20230924/original/pngtree-database-administrator-dbms-software-data-center-admin-secure-system-vector-png-image_12671093.png" height="70" width="170"/>
