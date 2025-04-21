@@ -18,6 +18,9 @@
     <a href="https://leetcode.com/u/Sathwik_Radarapu/" target="_blank">
       <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" alt="Image" width="100" height="30" style="margin-left: 5px;">
     </a>
+    <a href="https://sathwikradarapu.netlify.app/" target="_blank">
+      <img src="https://i.ytimg.com/vi/TwYKwaEjJd4/maxresdefault.jpg" alt="Image" width="100" height="30" style="margin-left: 5px;">
+    </a>
   </li>
 </ul>
 <h2>🌟 Skills</h2>
