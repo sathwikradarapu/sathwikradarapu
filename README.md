@@ -23,11 +23,12 @@
     </a>
   </li>
 </ul>
-<h2>🌟 Skills</h2>
+<h2>🌟 Technical Skills</h2>
 <ul>
-  <li><b>Programming Language:</b></li>
+  <li><b>Programming Languages:</b></li>
 </ul>
 <img src="https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.jpg" height="70" width="150"/>
+<img src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" height="70" width="150"/>
 <ul>
   <li><b>Web Development:</b></li>
 </ul>
