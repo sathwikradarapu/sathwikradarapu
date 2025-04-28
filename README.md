@@ -29,7 +29,7 @@
 </ul>
 <div>
   <img src="https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.jpg" height="70" width="150"/>
-<img src="https://www.citypng.com/public/uploads/preview/hd-java-programming-logo-png-701751694771848sm650yaqjt.png" height="100" width="80"/>
+<img src="https://cdn.worldvectorlogo.com/logos/java.svg" height="100" width="80"/>
 </div>
 <ul>
   <li><b>Web Development:</b></li>
