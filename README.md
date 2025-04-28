@@ -29,7 +29,20 @@
 </ul>
 <div>
   <img src="https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.jpg" height="70" width="150"/>
-<img src="https://cdn.worldvectorlogo.com/logos/java.svg" height="100" width="80"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/java.svg" height="100" width="100"/>
+</div>
+<ul>
+  <li><b>Database:</b></li>
+</ul>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFPLXqRyw5PEl4ETnuzYuP5XhUI51sUdQzcg&s" height="70" width="120"/>
+<ul>
+  <li><b>CS Fundementals:</b></li>
+</ul>
+<div>
+  <img src="https://png.pngtree.com/png-clipart/20230924/original/pngtree-database-administrator-dbms-software-data-center-admin-secure-system-vector-png-image_12671093.png" height="70" width="170"/>
+  <img src="https://media.istockphoto.com/id/1334768190/vector/oop-object-oriented-programming-acronym.jpg?s=612x612&w=0&k=20&c=srCoPvK8egilkl5jeNNVq1dcjpggjEArb6xPagZIdP0=" height="100" width="150"/>
+  <img src="https://t3.ftcdn.net/jpg/04/39/30/20/360_F_439302086_VnIX4490i451n9vkb5D7cnTA9yHmVeOq.jpg" height="90" width="190"/>
+  <img src="https://studyopedia.com/wp-content/uploads/2017/04/computer-networking.png" height="70" width="170"/>
 </div>
 <ul>
   <li><b>Web Development:</b></li>
@@ -45,10 +58,6 @@
   <img src="https://static-00.iconduck.com/assets.00/django-original-icon-2048x874-iws4p6y8.png" height="70" width="150"/>
 </div>
 <ul>
-  <li><b>Database:</b></li>
-</ul>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFPLXqRyw5PEl4ETnuzYuP5XhUI51sUdQzcg&s" height="70" width="120"/>
-<ul>
   <li><b>Tools:</b></li>
 </ul>
 <div>
@@ -56,15 +65,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/1200px-Netlify_logo.svg.png" height="70" width="170"/>
   <img src="https://intellyx.com/wp-content/uploads/2019/08/Render-cloud-intellyx-BC-logo.png" height="100" width="170"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" height="70" width="100"/>
-</div>
-<ul>
-  <li><b>CS Fundementals:</b></li>
-</ul>
-<div>
-  <img src="https://png.pngtree.com/png-clipart/20230924/original/pngtree-database-administrator-dbms-software-data-center-admin-secure-system-vector-png-image_12671093.png" height="70" width="170"/>
-  <img src="https://media.istockphoto.com/id/1334768190/vector/oop-object-oriented-programming-acronym.jpg?s=612x612&w=0&k=20&c=srCoPvK8egilkl5jeNNVq1dcjpggjEArb6xPagZIdP0=" height="100" width="150"/>
-  <img src="https://t3.ftcdn.net/jpg/04/39/30/20/360_F_439302086_VnIX4490i451n9vkb5D7cnTA9yHmVeOq.jpg" height="90" width="190"/>
-  <img src="https://studyopedia.com/wp-content/uploads/2017/04/computer-networking.png" height="70" width="170"/>
 </div>
 <h2>🖍️ What am I currently studying or focusing on?</h2>
 <ul><li>I am currently refining my coding skills by <b>solving problems on LeetCode</b> and expanding my expertise in <b>Web Development through the completion of practical projects.</b></li></ul>
