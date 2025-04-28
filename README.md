@@ -27,8 +27,10 @@
 <ul>
   <li><b>Programming Languages:</b></li>
 </ul>
-<img src="https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.jpg" height="70" width="150"/>
-<img src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" height="70" width="150"/>
+<div>
+  <img src="https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.jpg" height="70" width="150"/>
+<img src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" height="100" width="80"/>
+</div>
 <ul>
   <li><b>Web Development:</b></li>
 </ul>
