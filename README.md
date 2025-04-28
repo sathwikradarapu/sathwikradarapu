@@ -66,6 +66,7 @@
   <li><b>Developer Tools:</b></li>
 </ul>
 <div>
+  <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" height="70" width="170"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThOU4hIRB20Oy0barVYD6x4N8hQa5QOW7Www&s" height="70" width="170"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/1200px-Netlify_logo.svg.png" height="70" width="170"/>
   <img src="https://intellyx.com/wp-content/uploads/2019/08/Render-cloud-intellyx-BC-logo.png" height="100" width="170"/>
